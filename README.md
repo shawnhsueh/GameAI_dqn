@@ -1,7 +1,7 @@
 # Game Description 
 You and your opponent each have 10 (`action_size-1`) bargaining chips, and you will play 5 (`state_size`) matches to compare your bets. The person with the most wins will ultimately be declared the winner.
 
-Play the game here: [betting game](shawnhsueh.pythonanywhere.com)
+Play the game here: **[betting game](https://shawnhsueh.pythonanywhere.com)**
 
 Here is an example of the game:
 * Match 1: your bet is 3 and opponen's bet is 2. You win.
