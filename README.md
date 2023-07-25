@@ -1,5 +1,5 @@
 # Game Description 
-You and your opponent each have 10 (`action_size-1`) bargaining chips, and you will play 5 (`state_size`) matches to compare your bets. The person with the most wins will ultimately be declared the winner.
+You and your opponent each have 10 bargaining chips, and you will play 5 matches to compare your bets. The person with the most wins will ultimately be declared the winner.
 
 **Play the game here: [betting game](https://shawnhsueh.pythonanywhere.com)**
 
